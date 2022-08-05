@@ -1,0 +1,95 @@
+.container{
+    width: 1150px;
+    margin: auto;
+    outline: solid 2px gray;
+}
+
+.taskbar-box{
+    height: 100px;
+    color:hotpink;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.header-content{
+    text-align: center;
+    height: 453px;
+    color: hotpink;
+    font-weight: bolder;
+}
+
+.about-flex {
+    display: flex;
+}
+
+.about-image, .about-content{
+    text-align: center;
+    width: 50%;
+    height: 653px;
+    outline: solid 2px #607EAA; 
+    color: #FF8FB1;
+    font-weight: bolder;
+}
+
+.feature-box{
+    text-align: center;
+    height: 620px;
+    color: hotpink;
+    font-weight: bolder;
+}
+
+.stats-box{
+    text-align: center;
+    height: 275px;
+    color: hotpink;
+    font-weight: bolder;   
+}
+
+.service-box{
+    text-align: center;
+    height: 686px;
+    color: hotpink;
+    font-weight: bolder;       
+}
+
+.portfolio-box{
+    text-align: center;
+    height: 1134px;
+    color: hotpink;
+    font-weight: bolder;     
+}
+
+.team-box{
+    text-align: center;
+    height: 500px;
+    color: hotpink;
+    font-weight: bolder;      
+}
+
+.faq-box{
+    text-align: center;
+    height: 800px;
+    color: hotpink;
+    font-weight: bolder;     
+}
+
+.contact-box{
+    text-align: center;
+    height: 810px;
+    color: hotpink;
+    font-weight: bolder; 
+}
+
+.link-box{
+    text-align: center;
+    height: 340px;
+    color: hotpink;
+    font-weight: bolder; 
+}
+
+.copyrights-box{
+    text-align: center;
+    height: 110px;
+    color: hotpink;
+    font-weight: bolder; 
+}
